@@ -1,7 +1,8 @@
+Here is a complete, professional, and engaging `README.md` template tailored for your GitHub repository. You can copy and paste this directly into your repo.
 
 ***
 
-#  SpaceBunny
+# 🐰 SpaceBunny
 
 **A sleek, third-party GUI Utility for the CodeRabbit CLI.**
 
@@ -27,6 +28,7 @@ SpaceBunny brings a modern, cyberpunk-inspired graphical interface to the CodeRa
 
 ---
 
+<img width="1200" height="788" alt="PaceBunny_Screenshot " src="https://github.com/user-attachments/assets/53109071-8a6a-4da6-984d-767056bd4475" />
 
 ## 🚀 Installation
 
@@ -38,7 +40,7 @@ SpaceBunny brings a modern, cyberpunk-inspired graphical interface to the CodeRa
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TaterFacer/SpaceBunny.git
+   git clone https://github.com/YourUsername/SpaceBunny.git
    cd SpaceBunny
    ```
 2. Install the required dependencies:
