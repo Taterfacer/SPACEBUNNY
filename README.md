@@ -1,5 +1,3 @@
-<img width="1200" height="788" alt="SpaceBunny_Screenshot " src="https://github.com/user-attachments/assets/10935ae4-4783-4276-b96f-caa97f8d3611" />
-
 
 ***
 
