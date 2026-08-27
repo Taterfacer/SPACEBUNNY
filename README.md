@@ -1,5 +1,3 @@
-Here is a complete, professional, and engaging `README.md` template tailored for your GitHub repository. You can copy and paste this directly into your repo.
-
 ***
 
 # 🐰 SpaceBunny
