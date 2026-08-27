@@ -1,5 +1,7 @@
-<img width="512" height="512" alt="spacebunny_icon" src="https://github.com/user-attachments/assets/4e910a56-ceca-4114-aebe-1c889c164f80" />
+<img width="1200" height="788" alt="SpaceBunny_Screenshot " src="https://github.com/user-attachments/assets/10935ae4-4783-4276-b96f-caa97f8d3611" />
 
+
+***
 
 #  SpaceBunny
 
@@ -27,12 +29,6 @@ SpaceBunny brings a modern, cyberpunk-inspired graphical interface to the CodeRa
 
 ---
 
-## 📸 Screenshot
-
-[SpaceBunny.py](https://github.com/user-attachments/files/31496471/SpaceBunny.py)
-<img width="1200" height="788" alt="PaceBunny_Screenshot " src="https://github.com/user-attachments/assets/8ec98560-b4c2-47ef-b7eb-bb039e2f18f7" />
-
----
 
 ## 🚀 Installation
 
@@ -44,7 +40,7 @@ SpaceBunny brings a modern, cyberpunk-inspired graphical interface to the CodeRa
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/SpaceBunny.git
+   git clone https://github.com/TaterFacer/SpaceBunny.git
    cd SpaceBunny
    ```
 2. Install the required dependencies:
